@@ -1,12 +1,17 @@
+const publicPath = 'https://baovenhatviet.ga/'
 export default {
   // Target: https://go.nuxtjs.dev/config-target
   target: 'static',
+
+  router: {
+    base: '/',
+  },
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
     title: 'baovenhatviet.ga',
     htmlAttrs: {
-      lang: 'en'
+      lang: 'vi'
     },
     meta: [
       { charset: 'utf-8' },
@@ -43,5 +48,9 @@ export default {
 
   // Build Configuration: https://go.nuxtjs.dev/config-build
   build: {
+    publicPath,
+  },
+  generate: {
+    dir: 'docs',
   }
 }
