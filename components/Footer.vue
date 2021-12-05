@@ -146,6 +146,16 @@
     <div id="fb-root"></div>
     <div id="fb-customer-chat" class="fb-customerchat">
     </div>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-201783842-9"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-201783842-9');
+    </script>
+
   </footer>
 </template>
 <script>
