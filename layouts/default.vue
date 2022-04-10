@@ -9,7 +9,7 @@
 
     <script>
       var chatbox = document.getElementById('fb-customer-chat')
-      chatbox.setAttribute('page_id', '105530131117556')
+      chatbox.setAttribute('page_id', '102212361942672')
       chatbox.setAttribute('attribution', 'biz_inbox')
     </script>
 
