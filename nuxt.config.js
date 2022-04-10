@@ -9,14 +9,14 @@ export default {
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'baovenhatviet.ga',
+    title: 'Công ty bảo vệ nhất việt tuyển dụng nhân viên an ninh tòa nhà',
     htmlAttrs: {
       lang: 'vi'
     },
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-      { hid: 'description', name: 'description', content: '' },
+      { hid: 'description', name: 'description', content: 'Cần tuyển dụng Nhân Viên Bảo Vệ Tiền Sảnh/Tòa Nhà - Xoay Ca 8,12 tiếng của Công ty bảo vệ Nhất Việt' },
       { name: 'format-detection', content: 'telephone=no' }
     ],
     link: [
