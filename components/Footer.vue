@@ -143,19 +143,6 @@
         </div>
       </div>
     </div>
-    <div id="fb-root"></div>
-    <div id="fb-customer-chat" class="fb-customerchat">
-    </div>
-    <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-201783842-9"></script>
-    <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-
-      gtag('config', 'UA-201783842-9');
-    </script>
-
   </footer>
 </template>
 <script>
@@ -165,29 +152,5 @@ export default {
       date: new Date().getFullYear()
     }
   },
-  mounted(){
-
-      const chatbox = document.getElementById('fb-customer-chat');
-      chatbox.setAttribute("page_id", "105530131117556");
-      chatbox.setAttribute("attribution", "biz_inbox");
-
-      window.fbAsyncInit = function() {
-        // eslint-disable-next-line no-undef
-        FB.init({
-          xfbml            : true,
-          version          : 'v12.0'
-        });
-      };
-
-      (function(d, s, id) {
-        let js; const fjs = d.getElementsByTagName(s)[0];
-        if (d.getElementById(id)) return;
-        // eslint-disable-next-line prefer-const
-        js = d.createElement(s); js.id = id;
-        js.src = 'https://connect.facebook.net/vi_VN/sdk/xfbml.customerchat.js';
-        fjs.parentNode.insertBefore(js, fjs);
-      }(document, 'script', 'facebook-jssdk'));
-
-  }
 }
 </script>
