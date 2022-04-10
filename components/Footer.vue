@@ -103,7 +103,7 @@
       >
         <div class="w-full md:w-4/12 px-4 mx-auto text-center">
           <div class="text-sm text-gray-600 font-semibold py-1">
-            Copyright © {{date}} Làm bảo vệ by
+            Copyright © {{date}} <strong>Công ty bảo vệ nhất việt tuyển dụng</strong>
             <a
               href="https://lovanlong.ga/"
               class="text-gray-600 hover:text-gray-900"

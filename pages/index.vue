@@ -8,7 +8,7 @@
       >
         <div
           class="absolute top-0 w-full h-full bg-center bg-cover"
-          style='background-image: url("https://images.unsplash.com/photo-1485230405346-71acb9518d9c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1920&q=80");'
+          style='background-image: url("https://www.lambaove.ga/wordpress/wp-content/uploads/2022/03/collin-armstrong-8FxJi5wuwKc-unsplash.jpg");'
         >
           <span
             id="blackOverlay"
@@ -142,13 +142,13 @@
               <p
                 class="text-lg font-light leading-relaxed mt-0 mb-4 text-gray-700"
               >
-                <strong>Làm việc:</strong>
+                <strong>Làm việc: Hà Nội và các tỉnh lân cận trên toàn miền Bắc</strong>
 
-White Palace - 108 Phạm Văn Đồng, Hiệp Bình Chánh, Thủ Đức <br />
++ Các chung cư tại Hà Nội (Cầu Giấy, Hà Đông, Thanh Xuân) <br />
 
-White Palace - 194 Hoàng Văn Thụ, P9, Phú Nhuận<br />
++ Các Chi nhánh/Phòng giao dịch hệ thống MSB<br />
 
-GEM Center - 08 Nguyễn Bỉnh Khiêm, Đa Kao, Quận 1
++ Các khu công nghiệp Hà Nội và các tỉnh
               </p>
               <a
                 href="#mc_embed_signup_scroll"
@@ -162,7 +162,7 @@ GEM Center - 08 Nguyễn Bỉnh Khiêm, Đa Kao, Quận 1
               >
                 <img
                   alt="..."
-                  src="https://images.unsplash.com/photo-1522202176988-66273c2fd55f?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=crop&amp;w=1051&amp;q=80"
+                  src="https://www.lambaove.ga/wordpress/wp-content/uploads/2022/04/bao-ve-nhat-viet.jpg"
                   class="w-full align-middle rounded-t-lg"
                 />
                 <blockquote class="relative p-8 mb-4">
@@ -216,7 +216,7 @@ GEM Center - 08 Nguyễn Bỉnh Khiêm, Đa Kao, Quận 1
               <img
                 alt="..."
                 class="max-w-full rounded-lg shadow-lg"
-                src="https://images.unsplash.com/photo-1555212697-194d092e3b8f?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=crop&amp;w=634&amp;q=80"
+                src="https://www.lambaove.ga/wordpress/wp-content/uploads/2022/03/huanshi-6TWYNizHNYI-unsplash28129.jpg"
               />
             </div>
             <div class="w-full md:w-5/12 ml-auto mr-auto px-4">
@@ -233,49 +233,6 @@ GEM Center - 08 Nguyễn Bỉnh Khiêm, Đa Kao, Quận 1
                 <p class="mt-4 text-lg leading-relaxed text-gray-600">
                   BẢO VỆ/VỆ SỸ LÀM VIỆC TẠI HÀ NỘI - tại các quận Cầu Giấy, Bắc Từ Liêm, Hoàn Kiếm, Thanh Xuân, Hai Bà Trưng, Long Biên, Ba Đình và CÁC TỈNH – Hà Nam, Hải Dương…
                 </p>
-                <ul class="list-none mt-6">
-                  <li class="py-2">
-                    <div class="flex items-center">
-                      <div>
-                        <span
-                          class="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-pink-600 bg-pink-200 mr-3"
-                          ><i class="fas fa-fingerprint"></i
-                        ></span>
-                      </div>
-                      <div>
-                        <h4 class="text-gray-600">
-                          Carefully crafted components
-                        </h4>
-                      </div>
-                    </div>
-                  </li>
-                  <li class="py-2">
-                    <div class="flex items-center">
-                      <div>
-                        <span
-                          class="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-pink-600 bg-pink-200 mr-3"
-                          ><i class="fab fa-html5"></i
-                        ></span>
-                      </div>
-                      <div>
-                        <h4 class="text-gray-600">Amazing page examples</h4>
-                      </div>
-                    </div>
-                  </li>
-                  <li class="py-2">
-                    <div class="flex items-center">
-                      <div>
-                        <span
-                          class="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-pink-600 bg-pink-200 mr-3"
-                          ><i class="far fa-paper-plane"></i
-                        ></span>
-                      </div>
-                      <div>
-                        <h4 class="text-gray-600">Dynamic components</h4>
-                      </div>
-                    </div>
-                  </li>
-                </ul>
               </div>
             </div>
           </div>
