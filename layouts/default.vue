@@ -1,7 +1,7 @@
 <template>
   <div>
     <Nuxt />
-<!-- Messenger Plugin chat Code -->
+    <!-- Messenger Plugin chat Code -->
     <div id="fb-root"></div>
 
     <!-- Your Plugin chat code -->
@@ -31,18 +31,32 @@
         fjs.parentNode.insertBefore(js, fjs)
       })(document, 'script', 'facebook-jssdk')
     </script>
-    <script id="mcjs">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/dafd0f159bea8e5be932061e6/4f30f06ab5a9e872095c82db6.js");</script>
+    <script id="mcjs">
+      !(function (c, h, i, m, p) {
+        ;(m = c.createElement(h)),
+          (p = c.getElementsByTagName(h)[0]),
+          (m.async = 1),
+          (m.src = i),
+          p.parentNode.insertBefore(m, p)
+      })(
+        document,
+        'script',
+        'https://chimpstatic.com/mcjs-connected/js/users/dafd0f159bea8e5be932061e6/4f30f06ab5a9e872095c82db6.js'
+      )
+    </script>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script
+      async
+      src="https://www.googletagmanager.com/gtag/js?id=UA-201783842-9"
+    ></script>
+    <script>
+      window.dataLayer = window.dataLayer || []
+      function gtag() {
+        dataLayer.push(arguments)
+      }
+      gtag('js', new Date())
 
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-201783842-9"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-201783842-9');
-</script>
-
-
+      gtag('config', 'UA-201783842-9')
+    </script>
   </div>
 </template>
